@@ -1,0 +1,8 @@
+input: .
+output: .retype
+url: https://vsuet-ctf.ru # Add your website here
+branding:
+  title: vsuet-ctf
+  label: Обучение
+footer:
+  copyright: "&copy; Copyright . All rights reserved."
